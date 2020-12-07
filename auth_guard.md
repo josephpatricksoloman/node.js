@@ -105,9 +105,9 @@ app.listen(4000);
 
 ### :computer: Thus if you like follow me on  :computer:<br>
 
- <a href="https://www.linkedin.com/in/catherine-robin-kennedy"><img width="100px" height="100px" src="https://github.com/catherinekennedy/images/blob/main/linkedin.png"></a>
-<a href="https://www.instagram.com/cather_ine_kenny"><img  height="100px" src="https://github.com/catherinekennedy/images/blob/main/insta.jpg"></a>
- <a href="https://github.com/catherinekennedy"><img  height="100px" src="https://github.com/catherinekennedy/images/blob/main/github.png"></a>
+ <a href="https://www.linkedin.com/in/joseph-patrick-soloman-r-491b181bb"><img width="100px" height="100px src="https://github.com/catherinekennedy/images/blob/main/linkedin.png"></a>
+<a href="https://www.instagram.com/mom_calls_me_joeboy/"><img  height="100px" src="https://github.com/catherinekennedy/images/blob/main/insta.jpg"></a>
+ <a href="https://github.com/josephpatricksoloman"><img  height="100px" src="https://github.com/catherinekennedy/images/blob/main/github.png"></a>
 
 
  
